@@ -1,4 +1,4 @@
-name: Node.js CI
+wildenson name: Node.js CI
 
 on:
   push:
